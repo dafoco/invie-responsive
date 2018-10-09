@@ -387,12 +387,17 @@ input:focus, textarea:focus {
 		margin: 0 auto;
 		width: 300px;
 	}
+
+	.formulario .cajita {
+		margin-bottom: 30px;
+		font-size: 20px;
+	}
 	.sexo label {
 		display: block;
 	}
 	.intereses label {
 		display: block;
-		font-size: 20px;
+		font-size: 16px;
 	}
 	.col1 {
 		margin: 0;
